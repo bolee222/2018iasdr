@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/m2mB.webp"
   bg_image : "images/backgrounds/m2mB.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Impact Design against COVID-19"
+  title : "**Impact Design** against COVID-19"
   content : "How **Design** can create a **positive future** and **sustainable influence** to solve current problems across society **during this pandemic**?"
   button:
     enable : true
