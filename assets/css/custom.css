@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.banner-tag {
+    font-family: 'Outfit', sans-serif;
+    font-size: 24px !important;
+    color: white;
+    font-weight: 600;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.banner-title {
+    font-family: 'Outfit', sans-serif;
+    font-size: 60px !important;
+    font-weight: 700;
+    color: white;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.banner-textp {
+    font-family: 'Outfit', sans-serif;
+    font-size: 24px !important;
+    color: white;
+    padding: 0 19%;
+    justify-content: center;
+    margin-bottom: 50px;
+}
