@@ -14,7 +14,8 @@ html {
 
 body {
   background-color: #353b43;
-  font-family: "Anaheim", sans-serif;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 500;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
 }
@@ -420,7 +421,10 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600 !important;
   color: #57cbcc;
+
 }
 
 .navbar-toggler:focus {
@@ -1102,15 +1106,22 @@ a:hover {
 }
 
 .member-meta {
+  font-family: 'Outfit', sans-serif;
   padding: 15px;
 }
 
 .member-meta h4 {
+  font-family: 'Outfit', sans-serif;
   margin: 0 0 5px;
+  font-weight: 800;
 }
 
 .member-meta span {
-  font-size: 12px;
+  font-family: 'Outfit', sans-serif;
+  color: #afbac4;
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 20px !important;
 }
 
 /*=================================================================

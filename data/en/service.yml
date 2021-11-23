@@ -1,34 +1,35 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Panel Discussion Points
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
+    - name : Sharing Design Cases
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : How Design created positive and sustainable influences against COVID-19?
+
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    - name : Lessons from Study
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : What are the challenging parts for design community to help entire human race?
+
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Design Thinking
+      icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+      content : How did the ‘design thinking’ assist designers/researchers to respond to COVID-19 crisis quickly?
+
+
+    # service item loop
+    - name : Power of Design
+      icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
+      content : How can design create a positive future and sustainable influence to solve the problems?
+
+    # service item loop
+    - name : Towards Better Education
+      icon : ti-book # themify icon pack : https://themify.me/themify-icons
+      content : What are the key steps to implement Impact Design in design education, research and practice?
+
+    # service item loop
+    - name : Towards Better Strategies
+      icon : ti-map # themify icon pack : https://themify.me/themify-icons
+      content : What should be the strategies and road map to deepen Impact Design?

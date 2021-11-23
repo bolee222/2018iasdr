@@ -22,7 +22,7 @@
         <div class="team-member">
           <div class="member-photo">
             {{"<!-- member photo -->" | safeHTML}}
-            <img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
+            <img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}" width="">
 
             {{"<!-- member social profile -->" | safeHTML}}
             <div class="mask">
@@ -38,7 +38,7 @@
           <div class="member-meta">
             <h4>{{ .name }}</h4>
             <span>{{ .designation | markdownify}}</span>
-            <p>{{ .content | markdownify }}</p>
+            <div class="member-p">{{ .content | markdownify }}</div>
           </div>
         </div>
       </div>

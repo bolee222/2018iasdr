@@ -4,81 +4,59 @@ team:
   title : ORGANIZERS & PANELISTS
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Tek-Jin Nam
+      image_webp : images/team/Nam.webp
+      image : images/team/Nam.jpg
+      designation : Professor, ID KAIST
+      content : Tek-Jin Nam is a professor of Industrial Design department at KAIST. He leads CIDR Lab. at KAIST. He is the deputy editor-in-chief of Archives of Design Research journal, a Vice President of Korea Society of Design Science and the Secretary General of IASDR(International Association of Societies of Design Research). His research interests lie at creating people centric values of future products and services and systematic approached to creative design and innovation.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/tek-jin-nam-64198817/"
+        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+          link : "http://cidr.kaist.ac.kr/"
 
     # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
-      designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Bokyung Lee
+      image_webp : images/team/Lee.webp
+      image : images/team/Lee.jpg
+      designation : Senior Research Scientist, Autodesk
+      content : Bokyung Lee is an HCI/Interaction Design researcher at Autodesk. Her research lies at the intersection of Human-Computer Interaction and Interactive System Designs. She envisions the potential interactions, services, systems, and contents for future technologies (VR/AR/AI) with the goal of enhancing our lives and experiences. She creates and applies new user-centered design methods, as well as prototyping interactive systems.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/bokyung-lee-83156257/"
+        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+          link : "https://boleehci.com/"
 
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Jouke Verlinden
+      image_webp : images/team/Verlinden.webp
+      image : images/team/Verlinden.jpg
+      designation : Professor, University of Antwerp
+      content : Jouke Verlinden is an expert on Augmented Fabrication, exploring the domains of Augmented Reality and Digital Fabrication for improving human-centered design. He has successfully led several EU and Dutch funded projects focused on augmented reality and additive manufacturing (Smart replicas, Sail Simulator, kinetic-mirror, full scale 3D-scan and print of sports cyclist Tom Dumolin, augmented prototyping, Factory in a day - augmented awareness).
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/joukev/"
+        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.uantwerpen.be/en/staff/jouke-verlinden/"
 
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Su Yunsheng
+      image_webp : images/team/Yunsheng.webp
+      image : images/team/Yunsheng.png
+      designation : Professor,
+      content : Su Yunsheng is the Innovation Director of Master Planner for the Shanghai 2010 World Expo, and a co-founder of Urban China Magazine. He has supervised many important Urban Design projects, such as 201 0Shanghai Expo ,2005 Beijing Tongzhou Canal city, ,2013 Guangzhou Financial City etc. He has been active in bringing the experience of China’s rapid modernization and its designs to other developing countriesSuch as Angola, Zambia, Russia etc. course.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/su-yunsheng-51b83023/?originalSubdomain=cn"
+        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+          link : "https://shdi.tongji.edu.cn/shdien/8d/fa/c16452a167418/page.htm"
 
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Hannah Lennett
+      image_webp : images/team/Lennett.webp
+      image : images/team/Lennett.jpg
+      designation : Stakeholder Engagement Manager, Open Apparel Registry
+      content : Hannah Lennett's work centers around bringing people together to maximize impact. From connecting stakeholders along tangled supply chains, to designing programs to activate cross-sector partnerships (working with clients like Nike, the Rockefeller Foundation, and USAID), to leading a marketing team through some of the highest reach initiatives in IDEO's history, she aims to tackle any challenge through data-informed design, operational excellence, and creative strategy.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/hlennett/?originalSubdomain=nl"
