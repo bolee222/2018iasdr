@@ -48,29 +48,19 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "Panelists"
-url = "#team"
+url = "#panelists"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Topics"
+name = "Discussion Topics"
 url = "#topics"
 weight = 3
 
 [[Languages.en.menu.main]]
 name = "Design Cases"
-url = "#cases"
+url = "#works"
 weight = 4
 
-
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
 
 ############################# Default Parameters ##########################
 [params]

@@ -2,6 +2,7 @@
 about:
   enable : true
   title : ABOUT
+  url: #about
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative

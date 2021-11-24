@@ -2,6 +2,7 @@
 portfolio:
   enable : true
   title : Panelists' Works
+  url : #works
   portfolio_item :
     # portfolio item loop
     - name : KARE

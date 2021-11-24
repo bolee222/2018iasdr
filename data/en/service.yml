@@ -2,6 +2,7 @@
 service:
   enable : true
   title : Panel Discussion Points
+  url : #topics
   service_item :
     # service item loop
     - name : Sharing Design Cases

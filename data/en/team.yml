@@ -2,6 +2,7 @@
 team:
   enable : true
   title : ORGANIZERS & PANELISTS
+  url: #panelists
   team_member :
     # team member loop
     - name : Tek-Jin Nam
